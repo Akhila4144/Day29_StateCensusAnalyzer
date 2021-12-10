@@ -1,0 +1,16 @@
+C:\Users\Raj Nani\source\repos\IndianStatesCensus\IndianStatesCensus\obj\Debug\netcoreapp3.1\IndianStatesCensus.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\IndianStatesCensus\IndianStatesCensus\obj\Debug\netcoreapp3.1\IndianStatesCensus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\IndianStatesCensus\IndianStatesCensus\obj\Debug\netcoreapp3.1\IndianStatesCensus.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\IndianStatesCensus\IndianStatesCensus\obj\Debug\netcoreapp3.1\IndianStatesCensus.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\IndianStatesCensus\IndianStatesCensus\obj\Debug\netcoreapp3.1\IndianStatesCensus.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\IndianStatesCensus\IndianStatesCensus\bin\Debug\netcoreapp3.1\IndianStatesCensus.exe
+C:\Users\Raj Nani\source\repos\IndianStatesCensus\IndianStatesCensus\bin\Debug\netcoreapp3.1\IndianStatesCensus.deps.json
+C:\Users\Raj Nani\source\repos\IndianStatesCensus\IndianStatesCensus\bin\Debug\netcoreapp3.1\IndianStatesCensus.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\IndianStatesCensus\IndianStatesCensus\bin\Debug\netcoreapp3.1\IndianStatesCensus.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\IndianStatesCensus\IndianStatesCensus\bin\Debug\netcoreapp3.1\IndianStatesCensus.dll
+C:\Users\Raj Nani\source\repos\IndianStatesCensus\IndianStatesCensus\bin\Debug\netcoreapp3.1\IndianStatesCensus.pdb
+C:\Users\Raj Nani\source\repos\IndianStatesCensus\IndianStatesCensus\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Raj Nani\source\repos\IndianStatesCensus\IndianStatesCensus\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Raj Nani\source\repos\IndianStatesCensus\IndianStatesCensus\obj\Debug\netcoreapp3.1\IndianStatesCensus.dll
+C:\Users\Raj Nani\source\repos\IndianStatesCensus\IndianStatesCensus\obj\Debug\netcoreapp3.1\IndianStatesCensus.pdb
+C:\Users\Raj Nani\source\repos\IndianStatesCensus\IndianStatesCensus\obj\Debug\netcoreapp3.1\IndianStatesCensus.genruntimeconfig.cache
